@@ -121,8 +121,9 @@ Sentiment: Negative (1.0)
 
 ## 🙌 Contributors
 
-- **Priyesh Kumar Sah**
-- Based on base repo by [@drisskhattabi6](https://github.com/drisskhattabi6/Real-Time-Twitter-Sentiment-Analysis)
+- **Mitali Trivedi**
+- **Kazi Afroz Alam**
+- **Mateen Khan**
 
 ---
 
